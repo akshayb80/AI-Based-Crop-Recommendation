@@ -1,0 +1,3 @@
+[submodule "Crop"]
+	path = Crop
+	url = https://github.com/akshayb80/AI-Based-Crop-Recommendation.git
