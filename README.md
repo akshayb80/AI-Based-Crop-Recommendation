@@ -3,6 +3,11 @@ This project is a under the AI/ML track. The purpose of this project is to show 
 given the physical conditions of the farm which include Soil Nitrogen, Soil Phosphorus, Soil potassium
 , Rainfall, Humidity, soil pH and Temprature.
 
+# Developed By:
+* Prasad Thakare
+* Akshay Bakshi
+* Nikhil Sharma
+
 # Technologies
 
 * ML Model Development:
@@ -37,7 +42,13 @@ Accuracy: 98.72
 ### Thus, the ensembled model is considered for Deployment
 
 # Installation
+
 * Clone the main branch of this repository
 * Install all the dependencies using
-```pip install -r requirements.txt```
+'''pip install -r requirements.txt'''
+* Use ```python app.py``` command in the root directory to start the flask server
+* The site would be served on the localhost:5000
+
+# Screenshots:
+
 
