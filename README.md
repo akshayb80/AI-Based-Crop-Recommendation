@@ -15,4 +15,5 @@ given the physical conditions of the farm which include Soil Nitrogen, Soil Phos
   * Flask (Backend)
   * Basic HTML/CSS/JS (Frontend)
 
-# Algorithms Used
+# Algorithms
+The dataset 'CropDataset.csv' has been used for the creation and testing of the AI models.
