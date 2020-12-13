@@ -39,5 +39,5 @@ Accuracy: 98.72
 # Installation
 * Clone the main branch of this repository
 * Install all the dependencies using
-'''pip install -r requirements.txt'''
+```pip install -r requirements.txt```
 
