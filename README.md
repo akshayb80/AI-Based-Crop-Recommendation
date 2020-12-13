@@ -17,3 +17,4 @@ given the physical conditions of the farm which include Soil Nitrogen, Soil Phos
 
 # Algorithms
 The dataset 'CropDataset.csv' has been used for the creation and testing of the AI models.
+<img width="567" alt="Untitled" src="https://user-images.githubusercontent.com/56474333/102003799-af144d80-3d30-11eb-81b3-34d56a819bd9.png">
