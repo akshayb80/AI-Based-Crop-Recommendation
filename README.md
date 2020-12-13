@@ -21,6 +21,12 @@ The complete dataset can be found in the python_notebook directory of the reposi
 
 <img width="567" alt="Untitled" src="https://user-images.githubusercontent.com/56474333/102003799-af144d80-3d30-11eb-81b3-34d56a819bd9.png">
 
-### The dataset has been used to train the following models and the corresponding accuracies have been obtained:
+The dataset has been used to train the following models and the corresponding accuracies have been obtained:
+### Decision Trees
 
-* Decision Trees
+![image](https://user-images.githubusercontent.com/56474333/102003925-bab44400-3d31-11eb-9b85-899d8fe419a6.png)
+can be found in python_notebooks/Model.ipynb 
+
+### K-Nearest-Neighbours
+
+
