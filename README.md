@@ -23,10 +23,21 @@ The complete dataset can be found in the python_notebook directory of the reposi
 
 The dataset has been used to train the following models and the corresponding accuracies have been obtained:
 ### Decision Trees
-
-![image](https://user-images.githubusercontent.com/56474333/102003925-bab44400-3d31-11eb-9b85-899d8fe419a6.png)
+Accuracy: 90.45454545454545
 can be found in python_notebooks/Model.ipynb 
 
 ### K-Nearest-Neighbours
+Accuracy: 97.81818181818181
 
+### Ensembled model 
+A model is created by ensembling together Decision Trees, K-Nearest-Neighbours, Random Forests and Support Vector Machine
+Final Prediction is considered as the majority vote of all models.
+Accuracy: 98.72
+
+### Thus, the ensembled model is considered for Deployment
+
+# Installation
+* Clone the main branch of this repository
+* Install all the dependencies using
+'''pip install -r requirements.txt'''
 
