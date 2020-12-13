@@ -46,7 +46,7 @@ can be found in python_notebooks/ensemble.ipynb
 
 * Clone the main branch of this repository
 * Install all the dependencies using
-'''pip install -r requirements.txt'''
+```pip install -r requirements.txt```
 * Use ```python app.py``` command in the root directory to start the flask server
 * The site would be served on the localhost:5000
 
