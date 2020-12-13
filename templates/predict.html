@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<title>Crop Recommender</title>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+<!--===============================================================================================-->	
+	<link rel="icon" type="image/png" href="../static/images/icons/favicon.ico"/>
+<!--===============================================================================================-->
+	<link rel="stylesheet" type="text/css" href="../static/vendor/bootstrap/css/bootstrap.min.css">
+<!--===============================================================================================-->
+	<link rel="stylesheet" type="text/css" href="../static/fonts/font-awesome-4.7.0/css/font-awesome.min.css">
+<!--===============================================================================================-->
+	<link rel="stylesheet" type="text/css" href="../static/vendor/animate/animate.css">
+<!--===============================================================================================-->
+	<link rel="stylesheet" type="text/css" href="../static/vendor/select2/select2.min.css">
+<!--===============================================================================================-->
+	<link rel="stylesheet" type="text/css" href="../static/vendor/perfect-scrollbar/perfect-scrollbar.css">
+<!--===============================================================================================-->
+	<link rel="stylesheet" type="text/css" href="../static/css/util2.css">
+	<link rel="stylesheet" type="text/css" href="../static/css/main2.css">
+<!--===============================================================================================-->
+</head>
+<body>
+	
+	<div class="limiter">
+		<div class="container-table100">
+			<div class="wrap-table100">
+				<div class="table100">
+					<table>
+						<tbody>
+								<tr style="color: black;">
+									<td class="column1">Nitrogen</td>
+									<td class="column2">{{ res[0] }}</td>
+								</tr>
+								<tr style="color: black;">
+									<td class="column1">Phosphorus</td>
+									<td class="column2">{{ res[1] }}</td>
+								</tr>
+								<tr style="color: black;">
+									<td class="column1">Potassium</td>
+									<td class="column2">{{ res[2] }}</td>
+									
+								</tr>
+								<tr style="color: black;">
+									<td class="column1">Temprature</td>
+									<td class="column2">{{ res[3] }}</td>
+									
+								</tr>
+								<tr style="color: black;">
+									<td class="column1">Humidity</td>
+									<td class="column2">{{ res[4] }}</td>
+
+								</tr>
+								<tr style="color: black;">
+									<td class="column1">pH of Soil</td>
+									<td class="column2">{{ res[5] }}</td>
+					
+								</tr>
+								<tr style="color: black;">
+									<td class="column1">Rainfall</td>
+									<td class="column2">{{ res[6] }}</td>
+									
+								</tr>
+								<tr style="color: black;">
+									<td class="column1" style="font-weight: bold;"><h5>Recommended Crop</h5></td>
+									<td class="column2" style="text-transform: capitalize;font-weight: bold;"><h5>{{ res[7] }}</h5></td>
+									
+								</tr>
+								
+						</tbody>
+					</table>
+				</div>
+			</div>
+		</div>
+	</div>
+
+
+	
+
+<!--===============================================================================================-->	
+	<script src="../static/vendor/jquery/jquery-3.2.1.min.js"></script>
+<!--===============================================================================================-->
+	<script src="../static/vendor/bootstrap/js/popper.js"></script>
+	<script src="../static/vendor/bootstrap/js/bootstrap.min.js"></script>
+<!--===============================================================================================-->
+	<script src="../static/vendor/select2/select2.min.js"></script>
+<!--===============================================================================================-->
+	<script src="../static/js/main2.js"></script>
+
+</body>
+</html>
