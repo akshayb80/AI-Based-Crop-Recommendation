@@ -4,8 +4,8 @@ given the physical conditions of the farm which include Soil Nitrogen, Soil Phos
 , Rainfall, Humidity, soil pH and Temprature.
 
 # Developed By:
-* Prasad Thakare
 * Akshay Bakshi
+* Prasad Thakare
 * Nikhil Sharma
 
 # Technologies
